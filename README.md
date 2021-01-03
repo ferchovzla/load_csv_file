@@ -2,6 +2,6 @@
 Load csv file and store data.
 
 # Resources used:
--Frontend based in Vuejs [https://www.creative-tim.com/product/vue-now-ui-kit#]
--Backend based in Nodejs [https://nodejs.org/]
--Database based in Mysql [https://www.mysql.com/]
+- Frontend based in Vuejs [https://www.creative-tim.com/product/vue-now-ui-kit#]
+- Backend based in Nodejs [https://nodejs.org/]
+- Database based in Mysql [https://www.mysql.com/]
