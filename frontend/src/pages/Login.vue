@@ -77,16 +77,7 @@ export default {
       this.clear()
   },
   methods: {
-    validate () {
-      /*this.$refs.form.validate()
-      this.setInterval()
-      this.activeLoading = true      
-      const url = process.env.VUE_APP_API_URL + '/scanner/missing/translations'
-        axios.get(url)
-          .then((response) => {
-            this.scan_urls = response.data.data
-          })
-      */
+    validate () {      
       this.$router.push("/landing");
     },
     clear () {

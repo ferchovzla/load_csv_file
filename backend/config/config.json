@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "netscrape",
+    "password": "N3t5cr4p3.*",
+    "database": "mexico_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "netscrapetest",
+    "password": "T35tn3t5cr4p3",
+    "database": "mexico_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "netscrape",
+    "password": "N3t5cr4p3.*",
+    "database": "mexico_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
